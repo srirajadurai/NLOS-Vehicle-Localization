@@ -1,0 +1,30 @@
+[1] Spotted Hyena Optimization and Simulated Annealing‑Based NLOS Nodes Localization Scheme for Improved
+[2] Adaptive Ant Colony Optimization with Node Clustering for the Multi-depot Vehicle Routing Problem
+[3] An Ant Colony Optimization-Simulated Annealing Algorithm for Solving a Multiload AGVs Workshop Scheduling Problem with Limited Buffer Capacity
+[4] Data Transmission in Wireless Sensor Networks Based on Ant Colony Optimization Technique
+[5] Enhanced Ant Colony Optimization for Vehicular Ad Hoc Networks Using Fittest Node Clustering
+[6] Improved 3-D Indoor Positioning Based on Particle Swarm Optimization and the Chan Method
+[7] Slow Heat-Based Hybrid Simulated Annealing Algorithm in Vehicular Ad Hoc Network
+[8] An Efficient Routing Algorithm based on Ant Colony Optimisation for VANETs
+[9] CACONET Ant Colony Optimization Based Clustering Algorithm for VANET
+[10] Raccoon optimization algorithm‑based accurate positioning scheme for reliable emergency data dissemination under NLOS situations in VANETs
+[11] Weighted inertia-based dynamic virtual bat algorithm to detect NLOS nodes for reliable data dissemination in VANETs
+[12] Localizing non-line-of-sight nodes in Vehicluar Adhoc Networks using gray wolf methodology
+[13] A Hybrid Crow Search and Gray Wolf Optimization Algorithm-based Reliable Non-Line-of-Sight Node Positioning Scheme for Vehicular Ad hoc Networks
+[14] Received Signal Strength-Based Localization for Vehicle Distance Estimation in Vehicular Ad Hoc Networks (VANETs)
+[15] Urban Traffic Control in Software Defined Internet of Things via a Multi-Agent Deep Reinforcement Learning Approach
+[16] An Approach to Predicting Fatigue Crack Growth Under Mixed-Mode Loading Based on Improved Gaussian Process
+[17] Cooperative Vehicle Localization Base on Extended Kalman Filter In Intelligent Transportation System
+[18] Cooperative Localization with Distributed ADMM over 5G-based VANETs
+[19] V2X Sidelink Localization of Connected Automated Vehicles
+[20] Vehicle Positioning Using 5G Millimeter-Wave Systems
+[21] Hybrid Invasive Weed Optimization and Squirrel Search Algorithm-Based NLOS Nodes Localization Mechanism for Improving Reliable Data Dissemination in VANETs
+[22] Harris Hawk Optimization Algorithm-Based Effective Localization of NLOS Nodes in VANETs
+[23] An Improved Rank Criterion-Based NLOS Node Detection Mechanism in VANETs
+[24] Ant Colony Optimization with Simulated Annealing Algorithm for Route Optimization
+[25] Using Simulated Annealing and Ant-Colony Optimization Algorithms to Solve the Scheduling Problem
+[26] Ant Colony Optimization-Simulated Annealing Algorithm for Solving a Multiload AGVs Workshop Scheduling Problem with Limited Buffer Capacity
+[27] A Novel Ant Colony Optimization Algorithm for PAPR Reduction of OFDM Signals
+[28] Ant Colony Optimization (ACO) and Simulated Annealing (SA) for Solving Traveling Salesman Problem
+[29] Ant Colony Optimization and Simulated Annealing for Network Routing
+[30] A Hybrid Simulated Annealing for Job Shop Scheduling Problem
